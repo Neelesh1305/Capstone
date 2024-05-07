@@ -50,6 +50,10 @@ The models that showed significant performaces are
 4. NBClassifier
 5. FCNN model
 
+Logistic Regression model after bagging is the model that we have finally used and the metrics of the model include a testing accuracy of 0.89 and the Classification report is as follows:
+
+<img width="483" alt="Screenshot 2024-05-07 at 6 39 47 PM" src="https://github.com/Neelesh1305/Capstone/assets/113800036/f02d5ced-4054-48b2-a285-799d2bd37377">
+
 ## Research Outcomes:
 
 The analysis conducted using various models, indicates that it is indeed possible to predict the likelihood of depression with more features and probably more data along with existing medical conditions, lifestyle factors, and prescription medications.
