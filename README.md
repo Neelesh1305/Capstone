@@ -6,7 +6,7 @@ We have also build an application prototype using streamlit to take inputs for t
 The data is collected from the below source https://wwwn.cdc.gov/nchs/nhanes/default.aspx. The data collected is between 2017 and 2020.
 
 The collected data is in an .XPT format which is extracted using a module 'project_functions', which is taken from the source https://github.com/HeyThatsViv/Predicting-Depression/tree/33af52c20d6dd10d850c82fb10f66a50605e52be/project_functions.
-## Data Cleaning/preprocessing
+## Data Cleaning/features
 Lot of cleaning process, went into the data pre-processing. There are many features in the data that we have obtained including individual's physiological conditions, medical conditions, prescription medications and lifestyle factors. As our aim to to create a questionnaire data, which is easily answerable by any individual, hence colums like total_cholesterol, blood_transfusion, RBC_Count, platelet_count are removed from the dataset.
 The features that we used for the questionnaie data include 
 
