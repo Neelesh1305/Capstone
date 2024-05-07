@@ -22,6 +22,7 @@ Features = ['race', 'education_level', 'birth_place',
 'vigorous_recreation', 'moderate_recreation', 'vigorous_work',
 'moderate_work', 'lifetime_alcohol_consumption', 'Age_in_years', 'height', 'weight', 'sleep_hours',
 'sedentary_time', 'drinks_per_occasion', 'drinks_past_year', 'current_cigarettes_per_day', 'prescriptions_count']
+
 It also includes 164 prescription medications which are among the features given as inputs for modeling, which we have also manually clustered into 14 clusters by doing our research, which are mentioned below 
 1. psychotic_medications
 2. bloodpressure_medications
