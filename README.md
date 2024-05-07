@@ -1,6 +1,5 @@
 ## Mental health Prediction using Questionnaire Data
 
-#### Problem statement: 
     The study aims to investigate the relationship between mental health and various medical conditions and lifestyle factors, to identify common patterns among individuals with similar mental states. Understanding these associations can help develop targeted interventions and improve overall mental health outcomes.
 
 Mental Health plays a prominent a role in our present day daily routine. There are many factors which influence the mental health of an individual. In the project here we accessed the data from CDC(Center for Disease Control), to extract the features of medical data, physiological data, data regarding individual’s lifestyle, and the prescription medication used by the individual. 
