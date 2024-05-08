@@ -70,7 +70,6 @@ It also includes 164 prescription medications which are among the features given
 13. cardiovasular_medications
 14. metabolic_disorders_medications
 
-The collected data is in an .XPT format which is extracted using a module 'project_functions', which is taken from the source https://github.com/HeyThatsViv/Predicting-Depression/tree/33af52c20d6dd10d850c82fb10f66a50605e52be/project_functions.
  ## Model Development:
 For model development, we considered the mixture of continuous (for example: Age_in_years, weight, height, BMI) and categorical variables(for example, race, education_level, pregnant, birth_place) in our dataset. 
 We selected models that are suited for handling categorical variables, such as Decision Trees, Naive Bayes classifiers, and Support Vector classifiers (SVC). 
