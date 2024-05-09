@@ -70,6 +70,25 @@ It also includes 164 prescription medications which are among the features given
 13. cardiovasular_medications
 14. metabolic_disorders_medications
 
+## Exploratory Data Analysis:
+
+The following plots represent the distributions few continuous features
+
+![Unknown-35](https://github.com/Neelesh1305/Capstone/assets/113800036/52830567-ec87-49d7-8d2d-2f6be5e4dd73)
+![Unknown-34](https://github.com/Neelesh1305/Capstone/assets/113800036/eb4ce616-f3a6-4a75-b65e-34a61b438dea)
+![Unknown-33](https://github.com/Neelesh1305/Capstone/assets/113800036/39c7e2d2-704c-4e49-bd57-9cb6dbe4f3fd)
+![Unknown-32](https://github.com/Neelesh1305/Capstone/assets/113800036/471f808b-16de-4468-a023-e0f6d4683e51)
+
+
+The below specified plots give some informatio regarding their variation with respect to the target variable.
+These stats help us understand the probability distribution of depressed/Not depressed individuals across various classes of race, education level and ages.
+
+![WhatsApp Image 2024-05-07 at 18 40 45](https://github.com/Neelesh1305/Capstone/assets/113800036/b3b916a2-bacd-4624-8ea9-eada0831a7b7)
+![WhatsApp Image 2024-05-07 at 18 40 16](https://github.com/Neelesh1305/Capstone/assets/113800036/68f470e1-2e68-4142-b970-3d6f38e82cd4)
+![WhatsApp Image 2024-05-07 at 18 41 01](https://github.com/Neelesh1305/Capstone/assets/113800036/006db524-ca87-4746-b10a-0033bd1e8521)
+
+
+
  ## Model Development:
 For model development, we considered the mixture of continuous (for example: Age_in_years, weight, height, BMI) and categorical variables(for example, race, education_level, pregnant, birth_place) in our dataset. 
 We selected models that are suited for handling categorical variables, such as Decision Trees, Naive Bayes classifiers, and Support Vector classifiers (SVC). 
