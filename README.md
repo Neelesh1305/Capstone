@@ -115,3 +115,13 @@ Despite the inherent challenges posed by the imbalanced class distribution in th
 In conclusion, our project has focused on predicting depression based on an analysis of medical conditions, lifestyle factors, and prescription medications. Through the deployment phase, we have implemented a predictive model and provided users with an interface for accessing the model's predictions.
 Throughout the project, we have demonstrated the potential impact of data science and machine learning in improving mental health outcomes. Despite our challenges in achieving satisfactory results, we believe that our model has the potential to positively impact individuals' lives and rise the awareness regarding Mental Health.
 Moving forward, it is crucial to continue research in mental health prediction. This includes refining our model, expanding our dataset, and applying our model to different populations. By doing so, we can improve the accuracy and effectiveness of our predictions, ultimately leading to better mental health outcomes for all.
+
+## References: 
+1. NHANES Questionnaires, Datasets, and Related Documentation. (n.d.). Wwwn.cdc.gov. https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?BeginYear=2015 
+2. ‌Kroenke, K., Spitzer, R. L., & Williams, J. B. W. (2001). The PHQ-9: Validity of a brief depression severity measure. Journal of General Internal Medicine, 16(9), 606–613. https://doi.org/10.1046/j.1525-1497.2001.016009606.x
+3. Mayo Clinic. (2023). Mayo Clinic - Mayo Clinic. Mayoclinic.org; Mayo Clinic. https://www.mayoclinic.org 
+‌4. Drugs - Books - NCBI. (n.d.). Www.ncbi.nlm.nih.gov. https://www.ncbi.nlm.nih.gov/books/NBK430685/?term=Drugs
+‌5. Drugs.com. (2019). Drug Index A to Z. Drugs.com; Drugs.com. https://www.drugs.com/drug_information.html 
+6. ‌WebMD. (2018). Drugs & Medications. Webmd.com. https://www.webmd.com/drugs/2/index 
+‌7. NHS. (2018, August 16). Medicines A-Z. Nhs.uk. https://www.nhs.uk/medicines/  
+‌
